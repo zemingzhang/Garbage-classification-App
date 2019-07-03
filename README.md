@@ -6,3 +6,5 @@ The application can provide garbage classification.
 2 user can take photo for garbage classification.
 
 3 user can get report(Garbage consumption) base on photo function
+
+Contract: zeming-zhang@hotmail.com
