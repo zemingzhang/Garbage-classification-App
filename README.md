@@ -7,4 +7,6 @@ The application can provide garbage classification.
 
 3 user can get report(Garbage consumption) base on photo function
 
+4 Map for Dumpster
+
 Contract: zeming-zhang@hotmail.com
