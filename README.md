@@ -7,6 +7,6 @@ The application can provide garbage classification.
 
 3 user can get report(Garbage consumption) base on photo function
 
-4 Map for Dumpster
+4 Map for Dumpster with Navi
 
 Contract: zeming-zhang@hotmail.com
