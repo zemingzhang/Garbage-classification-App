@@ -9,4 +9,6 @@ The application can provide garbage classification.
 
 4 Map for Dumpster with Navi
 
+5 old clothes classification.
+
 Contract: zeming-zhang@hotmail.com
