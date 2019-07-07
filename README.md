@@ -11,4 +11,4 @@ The application can provide garbage classification.
 
 5 old clothes classification.
 
-Contract: zeming-zhang@hotmail.com
+Contact: zeming-zhang@hotmail.com
