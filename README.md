@@ -11,4 +11,6 @@ The application can provide garbage classification.
 
 5 old clothes classification and provide linking for container.
 
+6 organization information.
+
 Contact: zeming-zhang@hotmail.com
