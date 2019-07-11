@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Radio Assistant</string>
     <string name="action_settings">Settings</string>
-    <string name="app_logo">/////Alpine</string>
+    <string name="app_logo">Garbage classification</string>
     <string name="people_name">-- Albert Einstein.</string>
     <string name="app_sentence">I never think of the future. It comes soon enough.</string>
     <string name="app_sentence1">Truth is what stands the test of experience.</string>
